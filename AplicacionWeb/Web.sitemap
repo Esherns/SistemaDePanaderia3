@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Home.aspx" title="Home"  description="">
+    <siteMapNode url="PedidosHistorico.aspx" title="Pedidos Historicos"  description="" />
+    <siteMapNode url="Encargos.aspx" title="Encargos"  description="" />
+    <siteMapNode url="Carrito.aspx" title="Carrito"  description="" />
+    <siteMapNode url="" title="Productos"  description="" >
+      <siteMapNode url="" title="Panaderia" description="" >
+        <siteMapNode url="Marraqueta.aspx" title="Marraqueta" description="" />
+        <siteMapNode url="Hallulla.aspx" title="Hallulla" description="" />
+        <siteMapNode url="Dobladita.aspx" title="Dobladita" description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="Tortas" description="" >
+        <siteMapNode url="SelvaNegra.aspx" title="Selva Negra" description="" />
+        <siteMapNode url="Lucuma.aspx" title="Lucuma" description="" />
+        <siteMapNode url="Chocolate.aspx" title="Chocolate" description="" />
+      </siteMapNode>
+      <siteMapNode url="" title="Reposteria" description="" >
+        <siteMapNode url="QueQue.aspx" title="QueQue" description="" />
+        <siteMapNode url="Berlin.aspx" title="Berlin" description="" />
+        <siteMapNode url="PieLimon.aspx" title="Pie de Limon" description="" />
+      </siteMapNode>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
